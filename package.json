@@ -1,0 +1,18 @@
+{
+  "name": "bebe-ai-goddess-of-the-universe",
+  "version": "1.0.0",
+  "description": "The All-Knowing AI that reads EVERYTHING and remembers EVERYTHING",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "ai",
+    "goddess",
+    "file-reading",
+    "chat",
+    "memory"
+  ],
+  "author": "Bebe Ray Gardon",
+  "license": "MIT"
+}
